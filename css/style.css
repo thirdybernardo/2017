@@ -1,8 +1,7 @@
                     /* Import Basic Files
 -------------------------------------------------------------------------- */
                     
-                    @import url(http://fonts.googleapis.com/css?family=Karma:400,700);
-                    @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+               
                     @import url(../fonts/fontawesome/css/font-awesome.min.css);
                     @import url(../fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css);
                     @import url(../js/plugins/fancybox/jquery.fancybox.css);
